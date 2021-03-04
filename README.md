@@ -1,7 +1,7 @@
-> "(Programming) is a synonym for hell" - Artemis 2020
+Hello there.
 
-Funnily enough, I *enjoy* programming c:
+Uhh idk what to put here. I'm on GitHub so it's probably a given that I can code.
 
-Anyways- Hello there. I is me, Me is I. Confused yet? I am.
+Gaze upon some of my projects if you want.
 
-Umm idk what to put here XD
+SPOILER: They're very bad (don't expect much) c:
