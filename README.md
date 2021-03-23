@@ -4,4 +4,8 @@ Uhh idk what to put here. I'm on GitHub so it's probably a given that I can code
 
 Gaze upon some of my projects if you want.
 
-SPOILER: They're very bad (don't expect much) c:
+Spoiler: They're quite bad so don't expect much c:
+
+Also I haven't put everything up here. I still have a whole bunch of project folders just sitting there. I'll upload them to github when I can be bothered.
+
+Have a nice day!
