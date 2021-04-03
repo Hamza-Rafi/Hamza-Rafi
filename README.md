@@ -10,7 +10,7 @@ Also I haven't put everything up here. I still have a whole bunch of project fol
 
 Have a nice day!
 
-[![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamuzadesu)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=hamuzadesu&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamuzadesu&theme=dracula&layout=compact" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamuzadesu)](https://github.com/anuraghazra/github-readme-stats)
 
