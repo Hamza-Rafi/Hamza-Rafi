@@ -17,16 +17,12 @@ I use Python, C#, C++ (for the Arduino), HTML, CSS and JavaScript (does Node.js 
 <br />
 <br />
 
-
-Look upon some of my projects if you want.
-
-Spoiler: keep your expectations low
-
-Also I haven't put everything up here. I still have a whole bunch of project folders just sitting there. I'll upload them to github when I can be bothered.
+I still have a load of projects I haven't uploaded to github yet, I will upload them when i can be bothered to
 
 Godspeed.
 
 ### Stats
+
 <div>
 <img height=165 align="left" src="https://github-readme-stats.vercel.app/api?username=hamuzadesu&show_icons=true&theme=dracula&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamuzadesu&theme=dracula&layout=compact&hide_border=true" />
