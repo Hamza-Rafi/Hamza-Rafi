@@ -1,14 +1,16 @@
-Hello there.
+###Hello there, I'm Hamza c:
 
-Uhh idk what to put here. I'm on GitHub so it's probably a given that I can code.
+##I don't know what to write here xD.
 
-Gaze upon some of my projects if you want.
+I'm on GitHub so it's probably a given that I can code.
 
-Spoiler: They're quite bad so don't expect much c:
+Look upon some of my projects if you want.
+
+Spoiler: keep your expectations low
 
 Also I haven't put everything up here. I still have a whole bunch of project folders just sitting there. I'll upload them to github when I can be bothered.
 
-Have a nice day!
+Godspeed.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=hamuzadesu&show_icons=true&theme=dracula&hide_border=true" />
 <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamuzadesu&theme=dracula&layout=compact&hide_border=true" />
