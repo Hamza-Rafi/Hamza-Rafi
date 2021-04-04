@@ -1,6 +1,6 @@
-###Hello there, I'm Hamza c:
+### Hello there, I'm Hamza c:
 
-##I don't know what to write here xD.
+## I don't know what to write here xD.
 
 I'm on GitHub so it's probably a given that I can code.
 
