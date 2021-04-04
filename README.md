@@ -3,6 +3,8 @@
 ### I don't know what to write here xD.
 
 I'm on GitHub so it's probably a given that I can code.
+<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
+I use <i class="programming lang-python"></i>Python, C#, HTML, CSS, JavaScript
 
 Look upon some of my projects if you want.
 
