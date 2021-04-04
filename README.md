@@ -6,12 +6,12 @@ I'm on GitHub so it's probably a given that I can code.
 
 I use Python, C#, C++ (for the Arduino), HTML, CSS and JavaScript (does Node.js count?)
 
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" />
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" />
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" />
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png" />
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png" />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" height=100 />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" height=100 />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" height=100 />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" height=100 />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png" height=100 />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png" height=100 />
 
 
 Look upon some of my projects if you want.
