@@ -3,8 +3,16 @@
 ### I don't know what to write here xD.
 
 I'm on GitHub so it's probably a given that I can code.
-<link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
-I use <i class="programming lang-python"></i>Python, C#, HTML, CSS, JavaScript
+
+I use Python, C#, C++ (for the Arduino), HTML, CSS and JavaScript (does Node.js count?)
+
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.png" />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.png" />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.png" />
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.png" />
+
 
 Look upon some of my projects if you want.
 
