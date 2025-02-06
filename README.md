@@ -1,5 +1,3 @@
-## Hello there, I'm Hamza c:
+## Hello there, I'm Hamza 
 
-Current A-Level student studying Computer Science, Physics, Maths and Further Maths
-
-No projects in plan ;-;
+Studying Computer Science at Royal Holloway University of London.
